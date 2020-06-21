@@ -1,0 +1,8 @@
+prefix=/home/cry2ra5y/my_catkin_workspace/install
+
+Name: whycon
+Description: Description of whycon
+Version: 1.2.0
+Cflags: -I/home/cry2ra5y/my_catkin_workspace/install/include
+Libs: -L/home/cry2ra5y/my_catkin_workspace/install/lib -lwhycon
+Requires: cv_bridge roscpp sensor_msgs std_msgs message_runtime geometry_msgs

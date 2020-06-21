@@ -1,0 +1,8 @@
+prefix=/home/cry2ra5y/my_catkin_workspace/devel
+
+Name: pid_tune
+Description: Description of pid_tune
+Version: 0.0.0
+Cflags: -I/home/cry2ra5y/my_catkin_workspace/devel/include
+Libs: -L/home/cry2ra5y/my_catkin_workspace/devel/lib 
+Requires: 

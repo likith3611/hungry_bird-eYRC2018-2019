@@ -1,0 +1,8 @@
+prefix=/home/cry2ra5y/my_catkin_workspace/devel
+
+Name: image_rotate
+Description: Description of image_rotate
+Version: 1.12.23
+Cflags: -I/home/cry2ra5y/my_catkin_workspace/devel/include
+Libs: -L/home/cry2ra5y/my_catkin_workspace/devel/lib 
+Requires: 

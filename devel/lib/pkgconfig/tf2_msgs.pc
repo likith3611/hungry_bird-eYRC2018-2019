@@ -1,0 +1,8 @@
+prefix=/home/cry2ra5y/my_catkin_workspace/devel
+
+Name: tf2_msgs
+Description: Description of tf2_msgs
+Version: 0.6.5
+Cflags: -I/home/cry2ra5y/my_catkin_workspace/devel/include -I/home/cry2ra5y/my_catkin_workspace/src/geometry2/tf2_msgs/include
+Libs: -L/home/cry2ra5y/my_catkin_workspace/devel/lib 
+Requires: message_generation geometry_msgs actionlib_msgs

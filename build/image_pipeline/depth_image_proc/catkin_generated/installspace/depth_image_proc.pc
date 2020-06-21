@@ -1,0 +1,8 @@
+prefix=/home/cry2ra5y/my_catkin_workspace/install
+
+Name: depth_image_proc
+Description: Description of depth_image_proc
+Version: 1.12.23
+Cflags: -I/home/cry2ra5y/my_catkin_workspace/install/include
+Libs: -L/home/cry2ra5y/my_catkin_workspace/install/lib -ldepth_image_proc
+Requires: 

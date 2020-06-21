@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -pthread  -shared -Wl,-soname,libpluto_camera_sense.so -o /home/cry2ra5y/my_catkin_workspace/devel/lib/libpluto_camera_sense.so  -Wl,-rpath,/home/cry2ra5y/my_catkin_workspace/src/pluto_camera_sense/lib -lSDL2 -lavcodec -lavformat -lavutil -lavdevice -lswscale /home/cry2ra5y/my_catkin_workspace/src/pluto_camera_sense/lib/libLeweiLib.so 

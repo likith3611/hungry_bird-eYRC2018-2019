@@ -1,0 +1,8 @@
+prefix=/home/cry2ra5y/my_catkin_workspace/devel
+
+Name: tf2_sensor_msgs
+Description: Description of tf2_sensor_msgs
+Version: 0.6.5
+Cflags: -I/home/cry2ra5y/my_catkin_workspace/src/geometry2/tf2_sensor_msgs/include -I/usr/include/eigen3
+Libs: -L/home/cry2ra5y/my_catkin_workspace/devel/lib 
+Requires: sensor_msgs tf2_ros tf2

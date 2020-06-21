@@ -1,0 +1,8 @@
+prefix=/home/cry2ra5y/my_catkin_workspace/install
+
+Name: camera_calibration
+Description: Description of camera_calibration
+Version: 1.12.23
+Cflags: 
+Libs: -L/home/cry2ra5y/my_catkin_workspace/install/lib 
+Requires: 

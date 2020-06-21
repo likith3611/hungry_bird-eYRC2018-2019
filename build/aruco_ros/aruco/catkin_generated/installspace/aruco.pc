@@ -1,0 +1,8 @@
+prefix=/home/cry2ra5y/my_catkin_workspace/install
+
+Name: aruco
+Description: Description of aruco
+Version: 0.2.3
+Cflags: -I/home/cry2ra5y/my_catkin_workspace/install/include
+Libs: -L/home/cry2ra5y/my_catkin_workspace/install/lib -laruco
+Requires: 

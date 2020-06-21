@@ -1,0 +1,8 @@
+prefix=/home/cry2ra5y/my_catkin_workspace/devel
+
+Name: pluto_camera_sense
+Description: Description of pluto_camera_sense
+Version: 0.0.0
+Cflags: -I/home/cry2ra5y/my_catkin_workspace/devel/include
+Libs: -L/home/cry2ra5y/my_catkin_workspace/devel/lib 
+Requires: 
