@@ -63,12 +63,12 @@ class Edrone():
         
         #initial setting of Kp, Kd and ki for [pitch, roll, throttle, yaw]. eg: self.Kp[2] corresponds to Kp value in throttle axis
         #after tuning and computing corresponding PID parameters, change the parameters
-        #self.Kp = [8.2,5.76,556,0]
-        #self.Ki = [0,0,0,64]
-        #self.Kd = [0,0,2735,0]
-        self.Kp = [0,0,0,0]
-        self.Ki = [0,0,0,0]
-        self.Kd = [0,0,0,0]
+        self.Kp = [8.2,5.76,556,0]
+        self.Ki = [0,0,0,64]
+        self.Kd = [0,0,2735,0]
+#         self.Kp = [0,0,0,0]
+#         self.Ki = [0,0,0,0]
+#         self.Kd = [0,0,0,0]
         self.count1=0
         self.prev_values = [0,0,0,0]
         self.max_values = [1600,1600,1600,1600]
